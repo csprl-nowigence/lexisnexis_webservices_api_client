@@ -1,2 +1,3 @@
-# lexisnexis_webservices_api_client
-Client for LexisNexis Web Services API V1
+# LexisNexis Web Services API client
+Python client for LexisNexis Web Services API V1
+
